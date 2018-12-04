@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">kotlin object instance</string>
+    <string name="test_placeholder">fooOne:%1$s\nfooSubList:%2$s</string>
+</resources>
